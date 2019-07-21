@@ -6,6 +6,7 @@ This is a directory where content can be `openly` committed and shared amongst p
 
 # DM Session Notes
 
+* [July 21, 2019](/session-notes/2019-07-21.md)
 * [June 23, 2019](/session-notes/2019-06-23.md)
 * [June 15, 2019](/session-notes/2019-06-15.md)
 * [June 2, 2019](/session-notes/2019-06-02.md)
